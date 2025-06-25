@@ -1,0 +1,948 @@
+maintenance_id,blade_id,date,issue_found,repair_status,technician
+M922561,B01811,2022-06-20,Wear,Completed,Tech D
+M350621,B05705,2022-06-20,None,Completed,Tech B
+M909379,B01237,2022-06-20,Lightning Damage,Completed,Tech B
+M587022,B03491,2022-06-20,Split,Pending,Tech C
+M933631,B04066,2022-06-20,Lightning Damage,Completed,Tech C
+M903262,B05177,2022-06-20,,In Progress,Tech A
+M790111,B04330,2022-06-20,Lightning Damage,Pending,Tech A
+M998830,B01214,2022-06-20,Crack,In Progress,Tech A
+M326418,B01899,2022-06-20,,In Progress,Tech A
+M369624,B04658,2022-06-20,Wear,Completed,Tech C
+M763262,B03615,2022-06-27,Split,Completed,Tech A
+M861983,B05491,2022-06-27,Delamination,Completed,Tech D
+M767095,B05750,2022-06-27,Split,In Progress,Tech D
+M386398,B01207,2022-06-27,Delamination,Pending,Tech C
+M477872,B02717,2022-06-27,Split,Pending,Tech D
+M110026,B02885,2022-06-27,Delamination,Pending,Tech C
+M896044,B01877,2022-06-27,Crack,Pending,Tech D
+M239771,B02700,2022-07-04,Delamination,Pending,Tech B
+M585274,B01507,2022-07-04,Delamination,Pending,Tech A
+M429814,B03345,2022-07-04,Split,In Progress,Tech A
+M493139,B01051,2022-07-04,Delamination,Pending,Tech C
+M718235,B01905,2022-07-04,Wear,Completed,Tech A
+M882555,B03496,2022-07-04,Erosion,Completed,Tech B
+M997773,B02811,2022-07-04,Wear,Completed,Tech D
+M235066,B05073,2022-07-11,,Completed,Tech A
+M997827,B03831,2022-07-11,Delamination,Completed,Tech D
+M258496,B01137,2022-07-11,Lightning Damage,In Progress,Tech C
+M363719,B04842,2022-07-11,Split,In Progress,Tech A
+M177194,B05266,2022-07-11,Delamination,Completed,Tech D
+M626383,B01144,2022-07-11,Split,Pending,Tech C
+M535989,B02726,2022-07-18,Split,Pending,Tech A
+M676663,B02350,2022-07-18,Lightning Damage,Pending,Tech C
+M377026,B04355,2022-07-18,Crack,Completed,Tech D
+M138032,B04559,2022-07-18,Crack,Pending,Tech A
+M339703,B04393,2022-07-25,Lightning Damage,In Progress,Tech B
+M227167,B02210,2022-07-25,Delamination,Pending,Tech A
+M792434,B02095,2022-07-25,Lightning Damage,Completed,Tech B
+M778897,B05806,2022-07-25,Lightning Damage,Pending,Tech C
+M237201,B03782,2022-07-25,None,Pending,Tech A
+M955306,B04876,2022-07-25,Lightning Damage,In Progress,Tech C
+M556421,B04844,2022-07-25,Erosion,In Progress,Tech B
+M966447,B03440,2022-07-25,Crack,Completed,Tech A
+M744246,B03440,2022-07-25,Delamination,Pending,Tech B
+M194951,B01023,2022-07-25,Split,Completed,Tech C
+M371237,B01308,2022-08-01,Crack,Pending,Tech C
+M215827,B02224,2022-08-01,Erosion,In Progress,Tech D
+M773818,B04815,2022-08-01,Wear,In Progress,Tech D
+M659857,B03592,2022-08-08,Wear,In Progress,Tech D
+M651080,B01630,2022-08-08,Crack,Completed,Tech C
+M693352,B05070,2022-08-08,None,Completed,Tech B
+M906483,B01495,2022-08-08,Crack,Completed,Tech D
+M558463,B05696,2022-08-08,Split,In Progress,Tech C
+M776965,B04374,2022-08-08,Delamination,Pending,Tech A
+M462176,B04198,2022-08-08,Crack,In Progress,Tech B
+M262317,B05054,2022-08-08,Erosion,In Progress,Tech C
+M135252,B05256,2022-08-08,Wear,In Progress,Tech C
+M625223,B02388,2022-08-15,Lightning Damage,Completed,Tech C
+M867568,B03018,2022-08-15,Split,In Progress,Tech A
+M565213,B05590,2022-08-15,Delamination,In Progress,Tech B
+M754766,B03647,2022-08-15,Split,Pending,Tech D
+M206636,B01649,2022-08-15,Crack,Pending,Tech B
+M668844,B03331,2022-08-22,Delamination,Completed,Tech A
+M657222,B02808,2022-08-22,Split,Pending,Tech C
+M469837,B04741,2022-08-22,Split,In Progress,Tech B
+M799822,B05368,2022-08-22,None,Completed,Tech C
+M756434,B04577,2022-08-29,Delamination,Pending,Tech C
+M258282,B04286,2022-08-29,Crack,In Progress,Tech B
+M169212,B03423,2022-08-29,Split,Completed,Tech B
+M623852,B05636,2022-08-29,Lightning Damage,In Progress,Tech C
+M737579,B05537,2022-08-29,Crack,Completed,Tech A
+M730540,B03508,2022-08-29,Erosion,In Progress,Tech A
+M442271,B03989,2022-08-29,Erosion,Completed,Tech A
+M995016,B01606,2022-08-29,Wear,In Progress,Tech A
+M895188,B04308,2022-08-29,Split,Pending,Tech B
+M954807,B02723,2022-09-05,Delamination,Pending,Tech B
+M941476,B03355,2022-09-05,None,In Progress,Tech B
+M847103,B04784,2022-09-05,Split,Completed,Tech C
+M526840,B02066,2022-09-05,Lightning Damage,In Progress,Tech B
+M247528,B05665,2022-09-05,Wear,Completed,Tech A
+M392038,B03137,2022-09-05,Delamination,In Progress,Tech D
+M999334,B05046,2022-09-05,Delamination,Pending,Tech D
+M916283,B03328,2022-09-05,Wear,Completed,Tech C
+M804843,B03243,2022-09-12,Erosion,Completed,Tech A
+M806826,B04998,2022-09-12,None,In Progress,Tech C
+M648169,B05902,2022-09-12,Wear,Completed,Tech C
+M640537,B05433,2022-09-19,Crack,Pending,Tech A
+M648053,B04140,2022-09-19,Crack,In Progress,Tech B
+M883109,B05673,2022-09-19,Delamination,Pending,Tech A
+M480511,B04668,2022-09-19,None,Pending,Tech A
+M490192,B01833,2022-09-19,Erosion,In Progress,Tech D
+M271554,B02900,2022-09-19,Lightning Damage,In Progress,Tech D
+M869940,B04496,2022-09-19,Delamination,In Progress,Tech A
+M161234,B05148,2022-09-19,Split,Pending,Tech A
+M908620,B01739,2022-09-26,Erosion,Completed,Tech A
+M572624,B03281,2022-09-26,Wear,Pending,Tech C
+M685351,B02378,2022-10-03,Crack,In Progress,Tech B
+M482860,B03117,2022-10-03,Erosion,In Progress,Tech D
+M642269,B03714,2022-10-03,Crack,In Progress,Tech B
+M402886,B04213,2022-10-03,Split,Pending,Tech C
+M831299,B03290,2022-10-10,Split,Pending,Tech C
+M437146,B03241,2022-10-10,None,In Progress,Tech C
+M528754,B04049,2022-10-10,None,Completed,Tech C
+M878667,B01361,2022-10-10,Crack,Completed,Tech B
+M498858,B03858,2022-10-10,Split,Pending,Tech B
+M985084,B04117,2022-10-10,Split,Pending,Tech A
+M240050,B02810,2022-10-17,Delamination,In Progress,Tech D
+M620232,B05983,2022-10-17,None,Pending,Tech B
+M756469,B05140,2022-10-17,Crack,In Progress,Tech C
+M639823,B05716,2022-10-17,Delamination,In Progress,Tech C
+M874279,B04671,2022-10-17,Split,Pending,Tech D
+M524277,B04041,2022-10-17,Crack,In Progress,Tech A
+M381754,B03314,2022-10-17,Lightning Damage,Completed,Tech D
+M487934,B05948,2022-10-24,Erosion,Pending,Tech B
+M787535,B05306,2022-10-24,Split,In Progress,Tech A
+M356233,B04341,2022-10-24,Lightning Damage,Pending,Tech A
+M553514,B03471,2022-10-24,Wear,Pending,Tech A
+M421817,B04169,2022-10-24,Split,Completed,Tech A
+M325314,B01677,2022-10-31,Crack,In Progress,Tech C
+M494988,B01987,2022-10-31,Erosion,Pending,Tech A
+M831985,B05408,2022-10-31,Wear,In Progress,Tech A
+M304016,B01917,2022-10-31,Delamination,In Progress,Tech D
+M825994,B02441,2022-10-31,Wear,In Progress,Tech B
+M403983,B03015,2022-10-31,Lightning Damage,Pending,Tech D
+M649139,B05266,2022-10-31,Erosion,In Progress,Tech D
+M985718,B04900,2022-10-31,Crack,Pending,Tech B
+M270399,B03360,2022-11-07,Crack,Pending,Tech C
+M939386,B02381,2022-11-07,Split,Pending,Tech A
+M787769,B01068,2022-11-07,Split,Pending,Tech D
+M914037,B01907,2022-11-07,Wear,Completed,Tech D
+M610683,B03724,2022-11-07,Crack,In Progress,Tech B
+M604435,B03561,2022-11-07,None,Pending,Tech C
+M194334,B05990,2022-11-07,Erosion,In Progress,Tech D
+M807191,B01734,2022-11-07,None,Pending,Tech D
+M127467,B01956,2022-11-14,Lightning Damage,Completed,Tech D
+M785361,B01082,2022-11-14,Erosion,Completed,Tech C
+M319250,B02297,2022-11-14,Wear,Pending,Tech A
+M322326,B04836,2022-11-14,Crack,Completed,Tech A
+M355777,B02121,2022-11-14,Split,In Progress,Tech A
+M618609,B04028,2022-11-21,Split,In Progress,Tech B
+M430824,B05456,2022-11-21,Erosion,In Progress,Tech C
+M111275,B05138,2022-11-28,Split,In Progress,Tech D
+M420568,B02414,2022-11-28,Crack,Pending,Tech D
+M536373,B01510,2022-12-05,Wear,Completed,Tech C
+M706730,B05607,2022-12-05,Lightning Damage,Pending,Tech C
+M398930,B05728,2022-12-05,Split,Completed,Tech B
+M872911,B02422,2022-12-12,Wear,Pending,Tech C
+M271236,B03794,2022-12-12,Wear,In Progress,Tech A
+M637541,B04942,2022-12-19,Erosion,Pending,Tech D
+M733506,B01462,2022-12-19,Split,In Progress,Tech C
+M368782,B02211,2022-12-19,Erosion,Pending,
+M967231,B05155,2022-12-19,Split,Pending,Tech D
+M516291,B03676,2022-12-19,Wear,Completed,Tech A
+M825093,B03408,2022-12-19,Wear,In Progress,Tech B
+M148803,B01998,2022-12-19,None,Completed,Tech C
+M554283,B02438,2022-12-19,Erosion,In Progress,Tech B
+M927843,B04583,2022-12-26,Split,Completed,Tech A
+M902647,B01839,2022-12-26,Wear,In Progress,Tech A
+M187829,B02915,2022-12-26,None,Pending,Tech B
+M806453,B04621,2022-12-26,Crack,Completed,Tech B
+M439491,B03064,2023-01-02,Delamination,Completed,Tech B
+M888491,B04708,2023-01-02,Erosion,Completed,Tech C
+M145858,B02675,2023-01-02,None,In Progress,Tech D
+M140751,B02864,2023-01-02,Lightning Damage,In Progress,Tech B
+M327940,B04134,2023-01-09,Erosion,Completed,Tech D
+M739804,B05892,2023-01-09,Wear,Pending,Tech A
+M617288,B03628,2023-01-09,Crack,Pending,Tech A
+M447763,B02298,2023-01-09,Erosion,Pending,Tech B
+M971465,B01731,2023-01-09,None,Pending,Tech C
+M647385,B03889,2023-01-09,Erosion,Completed,Tech A
+M885151,B05399,2023-01-16,Crack,Pending,Tech D
+M944553,B02933,2023-01-16,Lightning Damage,In Progress,Tech D
+M653962,B04564,2023-01-16,Delamination,Completed,Tech A
+M994399,B02329,2023-01-16,Erosion,Pending,Tech A
+M122242,B04359,2023-01-16,Erosion,Completed,Tech B
+M529832,B02481,2023-01-16,Erosion,Pending,Tech A
+M693320,B02744,2023-01-16,Delamination,Completed,Tech C
+M621146,B04145,2023-01-16,Erosion,Pending,Tech D
+M779721,B04127,2023-01-16,Erosion,Completed,Tech B
+M584012,B01729,2023-01-23,Wear,Completed,Tech C
+M308299,B03851,2023-01-23,Split,Pending,Tech B
+M717373,B02543,2023-01-23,Crack,Pending,Tech C
+M183609,B02346,2023-01-30,Split,In Progress,Tech D
+M610175,B04353,2023-01-30,Wear,In Progress,Tech B
+M842269,B05145,2023-01-30,Crack,In Progress,Tech B
+M520672,B01191,2023-01-30,Crack,Completed,Tech B
+M157388,B05221,2023-02-06,Crack,In Progress,Tech C
+M115611,B04538,2023-02-06,Delamination,In Progress,Tech D
+M425130,B02469,2023-02-06,Crack,Pending,Tech A
+M928182,B03777,2023-02-06,Crack,Pending,Tech B
+M877721,B02315,2023-02-13,Wear,In Progress,Tech D
+M434902,B03267,2023-02-13,None,Completed,Tech B
+M362393,B02016,2023-02-13,Crack,Pending,Tech A
+M628632,B02047,2023-02-20,Crack,Pending,Tech A
+M286876,B03272,2023-02-20,Crack,Pending,
+M814542,B05171,2023-02-20,Delamination,Completed,Tech D
+M409705,B04055,2023-02-20,None,Pending,Tech B
+M617966,B05311,2023-02-20,Lightning Damage,Completed,Tech A
+M457226,B05073,2023-02-20,Wear,Pending,Tech C
+M335952,B02549,2023-02-20,Wear,Pending,Tech A
+M850831,B05171,2023-02-20,None,In Progress,Tech A
+M930614,B04219,2023-02-20,Lightning Damage,In Progress,Tech B
+M280407,B03909,2023-02-20,Crack,Completed,Tech B
+M616917,B05265,2023-02-27,Erosion,Completed,Tech B
+M547790,B03945,2023-02-27,None,Pending,Tech B
+M936601,B02783,2023-02-27,Lightning Damage,Pending,Tech C
+M497209,B01078,2023-02-27,Crack,Pending,Tech B
+M518854,B05253,2023-02-27,Wear,Completed,Tech A
+M395399,B05126,2023-02-27,None,In Progress,Tech A
+M824751,B02726,2023-02-27,Split,In Progress,Tech A
+M159990,B03878,2023-02-27,Split,Pending,Tech B
+M837371,B05474,2023-02-27,Lightning Damage,Pending,Tech C
+M806841,B01152,2023-02-27,Crack,In Progress,Tech B
+M261713,B02448,2023-03-06,Crack,Pending,Tech A
+M146326,B02083,2023-03-06,Erosion,Pending,Tech A
+M390023,B04878,2023-03-06,Split,Completed,Tech C
+M235429,B02195,2023-03-13,Crack,In Progress,Tech B
+M165654,B04688,2023-03-13,Erosion,In Progress,Tech C
+M399004,B04463,2023-03-13,None,Pending,Tech B
+M265862,B04006,2023-03-20,Erosion,Completed,Tech D
+M493085,B03163,2023-03-20,Split,Completed,Tech B
+M626463,B05421,2023-03-27,Wear,Pending,Tech C
+M927619,B05628,2023-03-27,Delamination,Pending,Tech B
+M428433,B02027,2023-03-27,Wear,In Progress,Tech C
+M132953,B01046,2023-03-27,Crack,Pending,Tech B
+M495129,B02078,2023-03-27,Split,In Progress,Tech D
+M791652,B03330,2023-03-27,Delamination,In Progress,Tech D
+M795653,B05692,2023-03-27,Lightning Damage,Pending,Tech A
+M711547,B05441,2023-03-27,Crack,In Progress,
+M878289,B04848,2023-04-03,Lightning Damage,Completed,Tech A
+M767853,B01151,2023-04-03,Delamination,In Progress,Tech D
+M155886,B02634,2023-04-03,Lightning Damage,Completed,Tech A
+M390305,B03776,2023-04-03,Split,Completed,Tech D
+M589398,B05317,2023-04-03,None,Completed,Tech B
+M371458,B01069,2023-04-03,Delamination,Pending,Tech C
+M870543,B03832,2023-04-03,None,In Progress,Tech B
+M178236,B05709,2023-04-03,Wear,Completed,Tech B
+M658734,B05771,2023-04-10,Lightning Damage,In Progress,Tech A
+M386534,B03685,2023-04-10,None,Pending,Tech B
+M375213,B03692,2023-04-17,Wear,Pending,Tech B
+M688768,B01080,2023-04-17,,Completed,Tech A
+M397613,B02489,2023-04-17,Erosion,Pending,Tech A
+M380009,B03911,2023-04-17,Delamination,Completed,Tech C
+M788239,B04569,2023-04-17,Wear,Completed,Tech C
+M383989,B05741,2023-04-17,Erosion,Pending,Tech B
+M588573,B05807,2023-04-24,Erosion,Completed,Tech B
+M576349,B01031,2023-04-24,Wear,Completed,Tech C
+M972842,B03092,2023-04-24,Split,Pending,Tech D
+M207088,B02142,2023-04-24,Delamination,Pending,Tech A
+M982171,B05798,2023-05-01,Wear,In Progress,Tech B
+M327966,B02431,2023-05-01,Wear,In Progress,Tech C
+M629253,B02278,2023-05-08,Split,Pending,Tech D
+M823970,B05647,2023-05-08,Wear,In Progress,Tech D
+M417334,B04323,2023-05-08,Crack,Pending,Tech D
+M968765,B03016,2023-05-08,Crack,Pending,Tech C
+M268730,B02180,2023-05-15,None,In Progress,Tech B
+M815953,B03169,2023-05-15,Delamination,Completed,Tech B
+M329391,B02583,2023-05-22,Delamination,In Progress,Tech A
+M987110,B01873,2023-05-22,Lightning Damage,Completed,Tech A
+M131975,B04465,2023-05-22,Crack,Completed,Tech D
+M456660,B02598,2023-05-22,Crack,Completed,Tech D
+M294353,B03100,2023-05-22,Lightning Damage,In Progress,Tech A
+M408628,B02113,2023-05-22,Split,Completed,Tech B
+M109066,B05063,2023-05-22,Erosion,Pending,Tech C
+M818658,B04420,2023-05-22,Delamination,Completed,Tech D
+M492938,B02714,2023-05-22,Split,Completed,Tech B
+M640267,B01920,2023-05-29,Erosion,Pending,Tech C
+M157449,B01310,2023-05-29,Wear,Pending,Tech B
+M628311,B04646,2023-06-05,Lightning Damage,Completed,Tech C
+M300542,B05483,2023-06-05,Delamination,Completed,Tech B
+M635914,B04380,2023-06-05,Erosion,In Progress,Tech C
+M892831,B01833,2023-06-05,Wear,Completed,Tech D
+M876199,B03423,2023-06-05,Split,Completed,Tech A
+M341718,B02427,2023-06-05,Crack,In Progress,Tech D
+M253637,B01096,2023-06-12,Lightning Damage,Completed,Tech A
+M880225,B01506,2023-06-12,Wear,Pending,Tech D
+M467904,B03385,2023-06-12,Wear,Pending,Tech D
+M741140,B02937,2023-06-12,None,Completed,Tech D
+M357206,B04018,2023-06-12,None,Completed,Tech C
+M396854,B02080,2023-06-12,Crack,Pending,Tech A
+M922129,B04478,2023-06-12,Delamination,In Progress,Tech B
+M395870,B01498,2023-06-12,Erosion,In Progress,Tech C
+M820007,B02122,2023-06-12,None,Pending,Tech B
+M572904,B04373,2023-06-12,Crack,Pending,Tech A
+M433626,B01492,2023-06-19,Lightning Damage,In Progress,Tech C
+M467667,B04874,2023-06-19,Lightning Damage,Pending,Tech C
+M252684,B03173,2023-06-19,Delamination,Pending,Tech A
+M453054,B04608,2023-06-19,None,Completed,Tech B
+M220219,B05956,2023-06-19,Erosion,In Progress,Tech B
+M608235,B02708,2023-06-26,Split,Completed,Tech C
+M836179,B01534,2023-06-26,Wear,Completed,Tech D
+M619458,B04788,2023-06-26,Crack,In Progress,Tech A
+M336817,B05944,2023-06-26,,Pending,Tech A
+M231881,B02594,2023-06-26,Lightning Damage,Pending,Tech C
+M107208,B03031,2023-06-26,None,Completed,Tech D
+M628825,B02674,2023-06-26,Lightning Damage,Pending,Tech B
+M484870,B05557,2023-06-26,Delamination,Pending,Tech C
+M353879,B04594,2023-06-26,Split,In Progress,Tech C
+M460012,B04002,2023-06-26,Split,Pending,Tech C
+M322327,B02012,2023-07-03,Erosion,In Progress,
+M251309,B04702,2023-07-03,Erosion,Completed,
+M540050,B01903,2023-07-03,Delamination,Completed,Tech B
+M214135,B01220,2023-07-03,Split,Pending,Tech D
+M697875,B03639,2023-07-10,None,Completed,Tech C
+M410017,B03372,2023-07-10,Split,In Progress,Tech C
+M842695,B01660,2023-07-10,Delamination,In Progress,Tech C
+M704865,B01454,2023-07-10,Wear,In Progress,Tech A
+M618194,B05225,2023-07-10,Lightning Damage,Completed,Tech A
+M547258,B01569,2023-07-10,Wear,In Progress,Tech D
+M265932,B02214,2023-07-17,Lightning Damage,Pending,Tech C
+M495612,B01948,2023-07-17,None,Pending,Tech B
+M909394,B01312,2023-07-17,Erosion,Completed,Tech D
+M377786,B02291,2023-07-17,Split,Completed,Tech B
+M654264,B03105,2023-07-17,Split,Completed,Tech B
+M676324,B02245,2023-07-17,Wear,In Progress,Tech C
+M468823,B04858,2023-07-17,Erosion,Completed,Tech D
+M115379,B02130,2023-07-17,Lightning Damage,Completed,Tech C
+M444225,B02818,2023-07-17,Delamination,Completed,Tech B
+M325626,B04984,2023-07-17,Delamination,Pending,Tech C
+M651088,B03471,2023-07-24,Split,In Progress,Tech B
+M615567,B02343,2023-07-24,Wear,Completed,Tech A
+M457370,B02939,2023-07-24,Lightning Damage,In Progress,Tech C
+M693534,B05974,2023-07-24,Wear,Pending,Tech C
+M540007,B01656,2023-07-24,Crack,Completed,Tech A
+M461492,B02703,2023-07-24,Erosion,Pending,Tech A
+M213125,B05946,2023-07-24,Erosion,Completed,Tech A
+M761973,B01916,2023-07-24,Delamination,Completed,Tech A
+M879900,B02689,2023-07-24,Wear,Pending,Tech D
+M973455,B03386,2023-07-31,Delamination,Completed,Tech A
+M306087,B02500,2023-07-31,Delamination,Pending,Tech A
+M893454,B03767,2023-07-31,Split,Pending,Tech D
+M307774,B03737,2023-07-31,Wear,Pending,Tech B
+M489540,B03103,2023-07-31,Split,Completed,Tech A
+M756414,B04654,2023-07-31,Wear,Pending,Tech D
+M296761,B04587,2023-08-07,Split,Pending,Tech A
+M102263,B04681,2023-08-07,Lightning Damage,In Progress,Tech C
+M203642,B05813,2023-08-14,Erosion,Completed,Tech B
+M346796,B05122,2023-08-14,Delamination,Pending,Tech B
+M599725,B04200,2023-08-14,Wear,Completed,Tech A
+M271597,B01279,2023-08-14,Split,In Progress,Tech C
+M328699,B04752,2023-08-14,Erosion,Completed,Tech A
+M760711,B03325,2023-08-21,None,Completed,Tech D
+M760144,B01939,2023-08-21,Split,In Progress,Tech D
+M836204,B05329,2023-08-21,Lightning Damage,Completed,Tech A
+M488976,B04505,2023-08-21,None,Pending,Tech A
+M953161,B02475,2023-08-28,Erosion,Completed,Tech D
+M209485,B04542,2023-08-28,Erosion,Completed,Tech C
+M181885,B05971,2023-08-28,None,Pending,Tech D
+M708267,B02584,2023-08-28,None,Completed,Tech A
+M344719,B01510,2023-08-28,None,Pending,Tech C
+M707512,B02531,2023-09-04,Erosion,Pending,Tech D
+M905519,B01032,2023-09-04,None,In Progress,Tech C
+M782229,B01106,2023-09-04,Crack,Completed,Tech B
+M128998,B01180,2023-09-11,Erosion,Pending,Tech D
+M671066,B04675,2023-09-11,None,Completed,Tech A
+M604334,B01913,2023-09-11,Wear,Pending,Tech D
+M450305,B04583,2023-09-11,Split,In Progress,Tech D
+M613076,B04771,2023-09-11,Crack,Completed,Tech D
+M534339,B02803,2023-09-11,Erosion,Pending,Tech B
+M624278,B05960,2023-09-11,Crack,Pending,Tech D
+M970659,B04218,2023-09-18,Erosion,Pending,Tech D
+M358430,B04609,2023-09-18,Split,In Progress,Tech C
+M453865,B01051,2023-09-18,Delamination,Completed,Tech C
+M997873,B02584,2023-09-18,Delamination,In Progress,Tech C
+M766954,B03532,2023-09-18,Crack,In Progress,Tech A
+M921665,B04799,2023-09-18,Wear,Pending,Tech B
+M242306,B04183,2023-09-25,Lightning Damage,Completed,Tech C
+M797906,B03728,2023-09-25,None,In Progress,Tech C
+M180382,B02966,2023-09-25,Erosion,Completed,Tech B
+M736338,B02407,2023-09-25,None,Pending,Tech C
+M603729,B02400,2023-09-25,Lightning Damage,Pending,Tech D
+M325904,B03088,2023-09-25,Crack,Pending,Tech C
+M397384,B04862,2023-09-25,Crack,Completed,Tech A
+M942946,B04738,2023-10-02,Erosion,Pending,Tech B
+M132436,B04280,2023-10-02,Crack,In Progress,Tech C
+M114548,B04573,2023-10-02,Lightning Damage,Completed,Tech C
+M534225,B05411,2023-10-02,Wear,Completed,Tech C
+M823270,B04604,2023-10-02,Lightning Damage,Completed,Tech A
+M736598,B01465,2023-10-02,Lightning Damage,Pending,Tech B
+M383960,B05297,2023-10-09,Crack,Pending,Tech C
+M499421,B01328,2023-10-09,Delamination,Pending,Tech A
+M322013,B02515,2023-10-09,Wear,In Progress,Tech B
+M494411,B01311,2023-10-16,Lightning Damage,In Progress,Tech D
+M787056,B02162,2023-10-16,Crack,In Progress,Tech B
+M834743,B03868,2023-10-23,Split,Completed,Tech B
+M327949,B05193,2023-10-23,Lightning Damage,In Progress,Tech D
+M225460,B04536,2023-10-30,Delamination,In Progress,Tech B
+M869305,B01577,2023-10-30,Erosion,In Progress,Tech C
+M189274,B04727,2023-10-30,Erosion,Pending,Tech D
+M420337,B01003,2023-10-30,Erosion,In Progress,Tech C
+M994527,B01522,2023-10-30,Erosion,Pending,Tech C
+M382720,B05842,2023-10-30,Split,Pending,Tech A
+M680762,B01008,2023-10-30,Split,In Progress,Tech D
+M792939,B02802,2023-10-30,Split,In Progress,Tech D
+M725872,B03223,2023-10-30,Erosion,Completed,Tech B
+M528782,B02695,2023-10-30,Crack,In Progress,Tech B
+M415987,B03283,2023-11-06,Lightning Damage,Completed,Tech B
+M336168,B03787,2023-11-06,Split,Completed,Tech D
+M676645,B03810,2023-11-06,Erosion,Pending,Tech C
+M968273,B03687,2023-11-13,Erosion,Pending,Tech D
+M642599,B02920,2023-11-13,Lightning Damage,Completed,Tech D
+M949859,B05400,2023-11-13,Crack,Completed,Tech C
+M623912,B02428,2023-11-13,Wear,Pending,Tech D
+M537943,B01557,2023-11-13,Erosion,Pending,Tech C
+M510394,B03457,2023-11-13,Wear,In Progress,Tech A
+M553785,B02187,2023-11-13,Wear,Completed,Tech C
+M176054,B02244,2023-11-13,Wear,Completed,
+M683296,B05222,2023-11-20,Lightning Damage,In Progress,Tech C
+M490429,B02849,2023-11-20,Erosion,Completed,Tech D
+M388816,B05195,2023-11-20,Lightning Damage,Completed,Tech B
+M516260,B03106,2023-11-20,Delamination,Completed,Tech A
+M229527,B03476,2023-11-20,Split,In Progress,Tech C
+M564580,B05420,2023-11-20,Crack,Completed,Tech B
+M651993,B04289,2023-11-20,Wear,Completed,Tech D
+M684667,B01105,2023-11-20,Split,Completed,Tech D
+M957399,B04099,2023-11-20,Split,Completed,Tech D
+M822258,B02934,2023-11-20,Crack,Completed,Tech C
+M604260,B01940,2023-11-27,None,Pending,Tech C
+M254889,B04540,2023-11-27,Lightning Damage,In Progress,Tech D
+M352272,B04291,2023-11-27,Delamination,Pending,Tech A
+M286535,B01632,2023-11-27,Wear,In Progress,Tech B
+M416274,B02832,2023-11-27,Split,In Progress,Tech C
+M115399,B03029,2023-11-27,Delamination,Pending,Tech D
+M679949,B05188,2023-11-27,Erosion,Pending,Tech C
+M872226,B04080,2023-11-27,Delamination,Completed,Tech B
+M650430,B04438,2023-12-04,None,In Progress,Tech A
+M357139,B03548,2023-12-04,Split,Pending,Tech B
+M302659,B01926,2023-12-04,Erosion,Pending,Tech D
+M184610,B05780,2023-12-04,Crack,Completed,Tech C
+M897307,B05411,2023-12-04,Wear,In Progress,Tech A
+M620159,B01950,2023-12-04,Crack,Pending,Tech B
+M971161,B01357,2023-12-04,Delamination,Pending,Tech A
+M593902,B03154,2023-12-04,Lightning Damage,Completed,Tech D
+M335609,B04960,2023-12-11,None,Pending,Tech D
+M502509,B05648,2023-12-11,None,Completed,Tech B
+M900307,B02618,2023-12-11,Wear,In Progress,Tech C
+M648337,B04910,2023-12-11,Crack,In Progress,Tech D
+M633868,B01664,2023-12-11,Lightning Damage,Pending,Tech B
+M843627,B02874,2023-12-11,Wear,Pending,Tech B
+M411683,B03924,2023-12-18,Erosion,In Progress,Tech A
+M882233,B05271,2023-12-18,Erosion,Completed,Tech C
+M132631,B02941,2023-12-18,Crack,Completed,Tech A
+M894288,B05940,2023-12-18,Crack,Pending,Tech B
+M655477,B05007,2023-12-18,None,Pending,Tech B
+M248756,B01080,2023-12-18,Wear,Pending,Tech B
+M697077,B05812,2023-12-18,Crack,In Progress,Tech A
+M947133,B05395,2023-12-18,Crack,Completed,Tech C
+M912526,B04591,2023-12-18,None,Pending,Tech B
+M347224,B01924,2023-12-25,Lightning Damage,Completed,Tech D
+M920657,B05545,2023-12-25,Erosion,Pending,Tech C
+M947648,B01842,2023-12-25,Split,In Progress,Tech A
+M352698,B02111,2023-12-25,Lightning Damage,Completed,Tech C
+M900488,B01486,2023-12-25,Erosion,In Progress,Tech C
+M747754,B02127,2023-12-25,Lightning Damage,Completed,Tech B
+M836172,B03446,2023-12-25,None,In Progress,
+M297189,B04416,2023-12-25,Delamination,Pending,Tech D
+M305842,B02033,2023-12-25,Crack,Pending,Tech D
+M411449,B01350,2023-12-25,Crack,Pending,Tech B
+M659738,B02045,2024-01-01,Crack,Pending,Tech C
+M350667,B03160,2024-01-01,Split,Completed,Tech A
+M915289,B02691,2024-01-01,None,In Progress,Tech B
+M752828,B02900,2024-01-08,Lightning Damage,Pending,Tech C
+M566384,B01525,2024-01-08,Wear,Pending,Tech B
+M521794,B02848,2024-01-08,Crack,Pending,Tech A
+M298836,B01999,2024-01-08,Delamination,Completed,Tech C
+M644357,B01039,2024-01-08,Lightning Damage,In Progress,Tech B
+M405461,B01984,2024-01-08,Lightning Damage,Completed,Tech B
+M550176,B01001,2024-01-08,Wear,Pending,
+M142741,B01212,2024-01-08,Wear,Completed,Tech D
+M770866,B05778,2024-01-08,Wear,Completed,Tech C
+M470523,B02864,2024-01-15,Wear,Completed,Tech D
+M643071,B04840,2024-01-15,Wear,In Progress,Tech B
+M442645,B05428,2024-01-15,Erosion,Completed,Tech C
+M140933,B02483,2024-01-15,Wear,In Progress,Tech C
+M357800,B02731,2024-01-22,Split,Pending,Tech D
+M782033,B01270,2024-01-22,Erosion,In Progress,Tech A
+M337365,B03481,2024-01-22,Delamination,In Progress,Tech C
+M266163,B01666,2024-01-29,None,Completed,Tech C
+M494659,B02261,2024-01-29,Delamination,Completed,Tech A
+M817847,B04789,2024-01-29,Wear,Pending,Tech B
+M854456,B01077,2024-01-29,None,Completed,Tech A
+M660109,B02009,2024-02-05,Erosion,Pending,Tech B
+M312035,B05133,2024-02-05,Erosion,Pending,Tech A
+M235439,B05303,2024-02-05,None,In Progress,Tech B
+M592692,B02484,2024-02-05,None,Pending,Tech A
+M868856,B03134,2024-02-05,Lightning Damage,In Progress,Tech A
+M709594,B01053,2024-02-05,None,In Progress,Tech B
+M377243,B04399,2024-02-05,Split,Pending,Tech C
+M810223,B02215,2024-02-05,Split,Completed,Tech D
+M279710,B02446,2024-02-05,Lightning Damage,Completed,Tech A
+M280895,B03297,2024-02-05,Split,Completed,Tech D
+M623385,B04715,2024-02-12,None,Pending,Tech A
+M516946,B02950,2024-02-12,Lightning Damage,In Progress,Tech A
+M965544,B02673,2024-02-12,None,Pending,Tech B
+M554492,B05996,2024-02-12,None,In Progress,Tech D
+M643889,B04231,2024-02-12,Wear,Pending,Tech C
+M773997,B03271,2024-02-12,Delamination,Pending,Tech A
+M305300,B03361,2024-02-12,Wear,In Progress,Tech D
+M927627,B05848,2024-02-12,Delamination,In Progress,Tech C
+M144080,B05651,2024-02-12,Delamination,In Progress,Tech C
+M606924,B04752,2024-02-12,Wear,Pending,Tech A
+M560955,B05783,2024-02-19,None,Pending,Tech B
+M447119,B05270,2024-02-19,Crack,In Progress,Tech D
+M505298,B05321,2024-02-19,Crack,In Progress,Tech A
+M978956,B01221,2024-02-26,Crack,Completed,Tech C
+M854633,B04977,2024-02-26,Delamination,Pending,Tech C
+M362708,B02398,2024-02-26,Crack,Completed,Tech A
+M665951,B03784,2024-02-26,Lightning Damage,In Progress,Tech C
+M793567,B02762,2024-02-26,Crack,Pending,Tech C
+M976434,B04077,2024-02-26,Delamination,In Progress,Tech C
+M374250,B01154,2024-03-04,Crack,In Progress,Tech D
+M526748,B02292,2024-03-04,Lightning Damage,Pending,Tech D
+M944260,B04671,2024-03-04,Split,In Progress,Tech A
+M173862,B02547,2024-03-04,Split,In Progress,Tech A
+M784385,B02960,2024-03-04,Delamination,Completed,Tech D
+M785891,B01355,2024-03-04,Crack,Completed,Tech A
+M961032,B01753,2024-03-04,Delamination,Completed,Tech C
+M849607,B02921,2024-03-04,Crack,Completed,Tech C
+M600490,B05687,2024-03-11,Split,Pending,Tech B
+M444770,B03179,2024-03-11,Split,Completed,Tech D
+M481186,B05622,2024-03-11,Wear,Completed,Tech B
+M527600,B05668,2024-03-18,Erosion,Pending,Tech B
+M566568,B05782,2024-03-18,Split,In Progress,Tech D
+M628799,B05411,2024-03-18,Crack,Pending,Tech A
+M309080,B04205,2024-03-18,Wear,Completed,Tech C
+M202659,B03293,2024-03-18,Erosion,In Progress,Tech C
+M102850,B02003,2024-03-18,Wear,Pending,Tech C
+M686686,B01256,2024-03-18,Lightning Damage,Pending,Tech C
+M332920,B05624,2024-03-18,Wear,In Progress,Tech A
+M294767,B05183,2024-03-18,Erosion,Completed,Tech D
+M294601,B01731,2024-03-25,Wear,Pending,Tech D
+M978518,B05037,2024-03-25,Lightning Damage,In Progress,Tech D
+M108201,B05733,2024-03-25,Crack,Completed,Tech B
+M239801,B01947,2024-03-25,Split,Pending,Tech C
+M334523,B03451,2024-03-25,Crack,Completed,Tech A
+M155108,B03423,2024-03-25,Erosion,Pending,Tech A
+M203564,B03830,2024-03-25,None,Completed,Tech C
+M793772,B03586,2024-03-25,Wear,In Progress,Tech A
+M807015,B02335,2024-04-01,Lightning Damage,In Progress,Tech A
+M341208,B04939,2024-04-01,Erosion,In Progress,Tech B
+M244871,B04414,2024-04-01,None,Completed,Tech B
+M812343,B05476,2024-04-01,Erosion,Pending,Tech D
+M270007,B01157,2024-04-01,Erosion,Completed,Tech A
+M753545,B03943,2024-04-08,Wear,Completed,Tech B
+M679427,B02855,2024-04-08,Crack,Completed,Tech D
+M971038,B03473,2024-04-08,Erosion,Pending,Tech D
+M907226,B01836,2024-04-08,Lightning Damage,Pending,Tech C
+M497495,B01253,2024-04-08,None,Completed,Tech A
+M387112,B01374,2024-04-08,Erosion,Completed,Tech B
+M187851,B02336,2024-04-08,Crack,In Progress,Tech B
+M285238,B04220,2024-04-08,Lightning Damage,Completed,Tech C
+M962660,B01735,2024-04-08,None,In Progress,Tech A
+M912350,B02627,2024-04-08,Delamination,Pending,Tech B
+M412660,B02493,2024-04-15,None,Pending,Tech A
+M952890,B03790,2024-04-15,Crack,Pending,Tech B
+M599629,B03048,2024-04-15,Crack,Pending,Tech C
+M367010,B05431,2024-04-15,Lightning Damage,Completed,Tech D
+M408895,B05085,2024-04-15,Lightning Damage,In Progress,Tech C
+M112997,B05609,2024-04-15,Delamination,In Progress,Tech A
+M407475,B04186,2024-04-22,None,In Progress,Tech A
+M568325,B04905,2024-04-22,Lightning Damage,Completed,Tech D
+M437564,B05594,2024-04-22,None,In Progress,Tech B
+M717690,B04257,2024-04-29,Lightning Damage,Completed,Tech A
+M826504,B04314,2024-04-29,None,In Progress,Tech B
+M560882,B05598,2024-04-29,Erosion,Completed,Tech B
+M628956,B04323,2024-04-29,Crack,In Progress,Tech B
+M679980,B04200,2024-04-29,Wear,Pending,Tech A
+M462951,B02032,2024-05-06,Lightning Damage,Pending,Tech B
+M127952,B01567,2024-05-06,Crack,In Progress,Tech C
+M349737,B04498,2024-05-06,None,In Progress,Tech D
+M348067,B01944,2024-05-06,None,In Progress,Tech B
+M635895,B02327,2024-05-06,Lightning Damage,Pending,Tech B
+M308797,B02904,2024-05-06,Crack,In Progress,Tech A
+M878121,B05777,2024-05-06,None,Completed,Tech A
+M331430,B03157,2024-05-06,Split,Pending,Tech A
+M941454,B02393,2024-05-06,Split,In Progress,Tech B
+M443329,B05696,2024-05-06,Lightning Damage,In Progress,Tech C
+M556057,B02951,2024-05-13,None,In Progress,Tech B
+M289200,B01254,2024-05-13,Wear,In Progress,Tech C
+M848822,B01166,2024-05-13,Lightning Damage,Pending,Tech C
+M186947,B01507,2024-05-13,Lightning Damage,Completed,Tech D
+M884691,B05060,2024-05-13,Wear,Completed,Tech B
+M158355,B03517,2024-05-13,Delamination,In Progress,Tech B
+M969171,B03768,2024-05-13,None,Completed,Tech C
+M541827,B03043,2024-05-13,Split,In Progress,Tech C
+M345234,B05587,2024-05-13,Wear,In Progress,Tech B
+M107436,B01404,2024-05-13,Wear,Completed,Tech D
+M865438,B01398,2024-05-20,Crack,Completed,Tech A
+M560618,B05191,2024-05-20,Delamination,Pending,Tech B
+M956292,B01696,2024-05-27,Delamination,Pending,Tech A
+M171454,B03537,2024-05-27,Split,Pending,Tech D
+M867496,B05722,2024-05-27,None,Completed,Tech D
+M924151,B03583,2024-05-27,None,Pending,Tech C
+M267402,B03703,2024-05-27,None,In Progress,Tech B
+M483575,B04978,2024-05-27,Crack,In Progress,Tech A
+M460446,B02226,2024-05-27,Lightning Damage,Pending,Tech C
+M102410,B01551,2024-05-27,Crack,In Progress,Tech B
+M674319,B02019,2024-05-27,Split,Pending,Tech B
+M173207,B03138,2024-05-27,Split,In Progress,Tech C
+M190649,B04607,2024-06-03,Crack,Completed,Tech C
+M890493,B04395,2024-06-03,Delamination,Pending,Tech A
+M863755,B01192,2024-06-03,Erosion,Completed,Tech D
+M843713,B01028,2024-06-03,Erosion,Completed,Tech C
+M264794,B01345,2024-06-03,None,Completed,Tech D
+M666093,B03953,2024-06-10,Split,Pending,Tech B
+M807889,B05837,2024-06-10,Wear,Completed,Tech D
+M912937,B01246,2024-06-10,None,Completed,Tech D
+M198021,B02110,2024-06-10,Delamination,In Progress,Tech B
+M890650,B01697,2024-06-10,Crack,Completed,Tech B
+M653784,B01065,2024-06-10,Wear,In Progress,Tech B
+M568597,B04121,2024-06-10,Erosion,Pending,Tech A
+M589244,B03723,2024-06-10,Lightning Damage,Pending,Tech A
+M464160,B05215,2024-06-17,Crack,Completed,Tech B
+M942411,B03970,2024-06-17,Erosion,Completed,Tech C
+M727268,B05499,2024-06-24,Wear,Completed,Tech B
+M256825,B01765,2024-06-24,Delamination,Pending,Tech C
+M772499,B02518,2024-07-01,Delamination,Pending,Tech D
+M264496,B05805,2024-07-01,Lightning Damage,In Progress,Tech D
+M484001,B02212,2024-07-08,None,Completed,Tech C
+M442231,B01255,2024-07-08,Crack,Pending,Tech C
+M923278,B04931,2024-07-08,Crack,Pending,Tech B
+M881829,B01326,2024-07-08,Crack,In Progress,Tech C
+M826269,B01669,2024-07-08,Split,Completed,Tech C
+M222813,B02361,2024-07-08,Crack,Completed,Tech C
+M582340,B05212,2024-07-08,Crack,Pending,Tech C
+M749851,B05804,2024-07-08,Erosion,Completed,Tech B
+M769875,B01623,2024-07-15,None,In Progress,Tech A
+M161367,B04402,2024-07-15,Crack,Pending,Tech C
+M704521,B02113,2024-07-15,None,Pending,Tech A
+M375831,B05735,2024-07-15,Lightning Damage,In Progress,Tech D
+M117867,B04170,2024-07-15,Lightning Damage,Pending,Tech D
+M804122,B05248,2024-07-15,None,Completed,Tech C
+M889805,B02671,2024-07-15,Split,Completed,Tech D
+M460200,B02856,2024-07-22,Lightning Damage,Completed,Tech D
+M300021,B05523,2024-07-22,Delamination,Pending,Tech A
+M594488,B02846,2024-07-22,Wear,In Progress,Tech A
+M787531,B05812,2024-07-22,None,Completed,Tech C
+M424279,B04336,2024-07-22,Crack,Completed,Tech D
+M603736,B02146,2024-07-29,Erosion,Completed,Tech D
+M160870,B02558,2024-07-29,Crack,Pending,Tech D
+M356423,B03950,2024-07-29,Lightning Damage,In Progress,Tech C
+M203034,B03102,2024-07-29,Delamination,Pending,Tech D
+M838556,B04365,2024-07-29,Lightning Damage,Completed,Tech A
+M112538,B05031,2024-07-29,Split,In Progress,Tech B
+M928948,B03089,2024-07-29,Lightning Damage,Completed,Tech C
+M284334,B02272,2024-07-29,Wear,In Progress,Tech D
+M527826,B05192,2024-08-05,Wear,Completed,Tech C
+M728999,B02047,2024-08-05,Wear,In Progress,Tech C
+M792206,B01070,2024-08-05,Delamination,Completed,Tech A
+M616993,B05670,2024-08-05,Lightning Damage,In Progress,Tech D
+M540573,B05903,2024-08-05,Crack,Completed,Tech D
+M523949,B03259,2024-08-05,Lightning Damage,Completed,
+M736008,B03380,2024-08-05,None,In Progress,Tech C
+M582573,B05592,2024-08-05,Delamination,Completed,Tech C
+M397399,B01997,2024-08-05,None,In Progress,Tech C
+M942053,B02345,2024-08-05,Delamination,Completed,Tech D
+M664610,B02504,2024-08-12,None,Pending,Tech A
+M539239,B05623,2024-08-12,Split,Completed,Tech A
+M341709,B01511,2024-08-12,Erosion,Completed,Tech D
+M738521,B04958,2024-08-12,Wear,Pending,Tech B
+M880260,B05271,2024-08-12,Delamination,Pending,Tech A
+M564796,B04012,2024-08-12,Wear,Pending,Tech C
+M892825,B05879,2024-08-12,None,Completed,Tech B
+M250775,B02874,2024-08-12,Erosion,Completed,Tech D
+M665519,B03980,2024-08-19,Lightning Damage,Completed,Tech A
+M246478,B05629,2024-08-19,Split,Completed,Tech D
+M246162,B01938,2024-08-19,Erosion,Pending,Tech A
+M400098,B02693,2024-08-19,Crack,In Progress,Tech D
+M453759,B01069,2024-08-19,Erosion,In Progress,Tech D
+M494019,B03659,2024-08-26,Erosion,Pending,Tech C
+M142987,B03033,2024-08-26,Crack,Completed,Tech C
+M110719,B03401,2024-08-26,Crack,Pending,Tech B
+M620716,B02979,2024-08-26,Delamination,Pending,Tech A
+M558737,B04190,2024-08-26,Crack,Pending,Tech C
+M281479,B02220,2024-08-26,Lightning Damage,Pending,Tech C
+M474673,B03197,2024-08-26,Erosion,Completed,Tech D
+M793643,B04332,2024-09-02,Delamination,Completed,Tech C
+M391343,B03440,2024-09-02,Lightning Damage,Completed,Tech B
+M198337,B02237,2024-09-02,None,Pending,Tech B
+M380810,B03654,2024-09-02,Split,Pending,Tech C
+M922589,B04541,2024-09-02,None,Pending,Tech D
+M538833,B05502,2024-09-09,Delamination,Completed,Tech D
+M984981,B02706,2024-09-09,Lightning Damage,Pending,Tech D
+M104925,B03994,2024-09-09,Erosion,Completed,Tech C
+M262769,B02481,2024-09-09,None,Completed,Tech B
+M317720,B03644,2024-09-09,Crack,Completed,Tech A
+M638789,B05105,2024-09-16,Delamination,In Progress,Tech D
+M422830,B04465,2024-09-16,Split,Pending,Tech C
+M248845,B04937,2024-09-16,Crack,Completed,Tech A
+M368898,B02992,2024-09-23,Wear,In Progress,Tech A
+M607824,B04734,2024-09-23,Erosion,Pending,Tech C
+M652024,B05901,2024-09-23,Wear,In Progress,Tech B
+M616078,B01395,2024-09-23,Crack,Completed,Tech C
+M370858,B01423,2024-09-23,Split,In Progress,Tech B
+M273397,B05692,2024-09-23,Lightning Damage,In Progress,Tech C
+M237373,B02254,2024-09-23,Lightning Damage,In Progress,Tech C
+M315409,B05852,2024-09-23,Erosion,Completed,Tech D
+M126025,B03601,2024-09-23,Crack,Pending,Tech C
+M213549,B04769,2024-09-23,Wear,In Progress,Tech C
+M190177,B04027,2024-09-30,Erosion,Completed,Tech A
+M840165,B04907,2024-09-30,Delamination,Completed,Tech B
+M372230,B03984,2024-09-30,Wear,Completed,Tech C
+M854568,B03986,2024-09-30,Split,Completed,Tech C
+M875200,B04959,2024-09-30,Erosion,Pending,Tech D
+M676841,B05597,2024-09-30,Split,Pending,Tech C
+M261553,B04738,2024-09-30,None,Pending,Tech A
+M983673,B01842,2024-09-30,Crack,Pending,Tech C
+M315691,B01612,2024-09-30,Erosion,In Progress,Tech B
+M534614,B01412,2024-10-07,Erosion,Pending,Tech A
+M574565,B01138,2024-10-07,Lightning Damage,In Progress,Tech C
+M915108,B01012,2024-10-07,Lightning Damage,Completed,Tech D
+M112389,B01583,2024-10-07,Erosion,In Progress,Tech B
+M875904,B01240,2024-10-07,Split,Pending,Tech B
+M579340,B05820,2024-10-07,None,Pending,Tech C
+M811018,B01219,2024-10-14,Split,Completed,Tech B
+M216112,B01109,2024-10-14,Split,Completed,Tech C
+M732101,B02730,2024-10-14,Split,In Progress,Tech B
+M174723,B04166,2024-10-14,,Completed,Tech C
+M389821,B04145,2024-10-14,Split,Completed,Tech C
+M497206,B02884,2024-10-14,Wear,Pending,Tech C
+M783552,B05443,2024-10-14,Crack,In Progress,Tech B
+M930873,B01056,2024-10-14,Delamination,In Progress,
+M579366,B03426,2024-10-14,Delamination,Pending,Tech A
+M311105,B03800,2024-10-14,Split,Completed,Tech A
+M958422,B03582,2024-10-21,Wear,In Progress,Tech D
+M250952,B01916,2024-10-21,Delamination,Pending,Tech C
+M776218,B01476,2024-10-28,Erosion,In Progress,Tech D
+M744450,B01698,2024-10-28,Split,Pending,Tech B
+M775207,B01680,2024-10-28,Split,Pending,Tech D
+M711618,B05672,2024-11-04,None,Pending,Tech D
+M731145,B03169,2024-11-04,Wear,Pending,Tech A
+M189610,B04152,2024-11-04,Lightning Damage,In Progress,Tech D
+M402055,B04170,2024-11-04,Lightning Damage,In Progress,Tech D
+M956536,B04216,2024-11-04,None,In Progress,Tech D
+M686496,B03629,2024-11-11,Lightning Damage,In Progress,Tech D
+M564520,B03542,2024-11-11,Erosion,Completed,Tech C
+M485061,B02306,2024-11-11,Erosion,Completed,Tech C
+M359775,B04646,2024-11-11,None,Completed,Tech D
+M459283,B04387,2024-11-11,Lightning Damage,Pending,Tech B
+M122554,B02931,2024-11-11,None,Completed,Tech C
+M182499,B03553,2024-11-11,Erosion,Pending,Tech A
+M204523,B02652,2024-11-11,None,Completed,Tech A
+M890898,B05218,2024-11-18,None,In Progress,Tech B
+M943537,B01753,2024-11-18,Erosion,In Progress,Tech C
+M220587,B01971,2024-11-18,Lightning Damage,Completed,Tech C
+M213920,B04688,2024-11-18,Lightning Damage,Completed,Tech A
+M388619,B03841,2024-11-18,Wear,Completed,Tech B
+M908960,B04998,2024-11-18,Lightning Damage,Completed,Tech D
+M189411,B04605,2024-11-18,Split,In Progress,Tech B
+M822535,B01969,2024-11-18,Wear,In Progress,Tech B
+M715453,B05315,2024-11-18,Crack,Completed,Tech D
+M364778,B05245,2024-11-18,Delamination,In Progress,Tech C
+M696636,B05731,2024-11-25,Wear,Pending,Tech D
+M106173,B01441,2024-11-25,Wear,In Progress,Tech C
+M776698,B03754,2024-11-25,Crack,In Progress,Tech D
+M535398,B04019,2024-11-25,Wear,Pending,Tech B
+M405679,B02815,2024-11-25,Wear,Pending,Tech A
+M458519,B04019,2024-11-25,Split,Completed,Tech A
+M516840,B03151,2024-11-25,Split,Completed,Tech C
+M648546,B03393,2024-11-25,Wear,Pending,Tech D
+M729051,B04748,2024-11-25,Split,Pending,Tech D
+M977381,B03036,2024-11-25,Erosion,In Progress,Tech A
+M526826,B03878,2024-12-02,Lightning Damage,Completed,Tech A
+M547083,B05583,2024-12-02,None,In Progress,Tech B
+M733183,B01071,2024-12-09,Wear,Completed,Tech C
+M743401,B04644,2024-12-09,None,In Progress,Tech B
+M110109,B01687,2024-12-09,Wear,Completed,Tech A
+M552536,B01786,2024-12-09,Erosion,Completed,Tech B
+M951473,B04415,2024-12-09,Delamination,Completed,Tech A
+M606076,B05086,2024-12-16,None,Pending,Tech C
+M899463,B03277,2024-12-16,Crack,Pending,Tech B
+M799880,B03744,2024-12-16,Wear,Completed,Tech C
+M675104,B01048,2024-12-16,Split,In Progress,Tech D
+M263951,B02640,2024-12-23,None,Completed,Tech B
+M686742,B03723,2024-12-23,Lightning Damage,In Progress,Tech A
+M496965,B04274,2024-12-23,Wear,In Progress,Tech C
+M991457,B02271,2024-12-23,None,In Progress,Tech C
+M396254,B01706,2024-12-23,Lightning Damage,Completed,Tech B
+M697437,B04244,2024-12-23,Split,In Progress,Tech D
+M126546,B05066,2024-12-23,Crack,Completed,Tech D
+M731551,B05316,2024-12-23,Erosion,Completed,Tech B
+M108539,B05758,2024-12-23,Delamination,Pending,Tech D
+M782226,B04811,2024-12-23,Erosion,Completed,Tech D
+M932567,B04288,2024-12-30,None,In Progress,Tech B
+M886589,B04402,2024-12-30,Split,In Progress,Tech D
+M629121,B01214,2024-12-30,Split,Pending,Tech B
+M654007,B02267,2024-12-30,Crack,In Progress,Tech C
+M590511,B04854,2024-12-30,,Completed,Tech C
+M161532,B05467,2024-12-30,Erosion,Pending,Tech B
+M500965,B05887,2024-12-30,Erosion,Completed,Tech D
+M297819,B04154,2024-12-30,None,Completed,Tech C
+M315522,B05796,2024-12-30,Wear,Completed,Tech B
+M801351,B05611,2024-12-30,Wear,Pending,Tech A
+M915008,B03614,2025-01-06,Delamination,In Progress,Tech D
+M676635,B01842,2025-01-06,Delamination,Pending,Tech D
+M206432,B05860,2025-01-06,Delamination,Completed,Tech A
+M941735,B05567,2025-01-06,Wear,Pending,Tech A
+M762940,B03152,2025-01-13,Erosion,Pending,Tech A
+M564405,B04609,2025-01-13,Crack,In Progress,Tech D
+M727111,B02902,2025-01-13,Wear,Pending,Tech D
+M669360,B05086,2025-01-13,Wear,In Progress,Tech B
+M129654,B02897,2025-01-13,Split,Completed,Tech D
+M386467,B04758,2025-01-13,None,In Progress,Tech C
+M454411,B04732,2025-01-13,Wear,In Progress,Tech C
+M633555,B01473,2025-01-13,Lightning Damage,In Progress,Tech C
+M763385,B03259,2025-01-13,,In Progress,Tech C
+M322110,B05118,2025-01-20,Split,Pending,Tech A
+M199156,B04023,2025-01-20,None,Pending,Tech B
+M260544,B02360,2025-01-20,Delamination,Completed,Tech B
+M461120,B02366,2025-01-20,Split,In Progress,Tech A
+M410227,B03234,2025-01-20,Delamination,Pending,Tech B
+M969919,B02626,2025-01-20,Split,Completed,Tech C
+M627524,B05204,2025-01-20,Delamination,Pending,Tech A
+M499526,B03947,2025-01-27,Wear,In Progress,Tech B
+M745411,B02862,2025-01-27,Wear,Completed,Tech A
+M503048,B01357,2025-01-27,Lightning Damage,In Progress,Tech D
+M527611,B03396,2025-01-27,Delamination,In Progress,Tech A
+M660288,B04709,2025-01-27,Wear,Completed,Tech D
+M568136,B03369,2025-01-27,Crack,Pending,Tech A
+M486466,B05484,2025-01-27,Erosion,In Progress,Tech C
+M727211,B02395,2025-01-27,Crack,In Progress,Tech B
+M188660,B02600,2025-01-27,Split,Pending,Tech A
+M926844,B05116,2025-01-27,Lightning Damage,Pending,Tech A
+M902782,B05416,2025-02-03,None,Completed,Tech D
+M173975,B01476,2025-02-03,Wear,Pending,Tech D
+M985948,B04761,2025-02-03,Lightning Damage,In Progress,Tech B
+M724818,B03993,2025-02-03,Crack,Completed,Tech A
+M375065,B02875,2025-02-03,None,Completed,Tech A
+M306600,B03335,2025-02-03,Crack,Pending,Tech C
+M119650,B01085,2025-02-03,Erosion,Pending,Tech C
+M190578,B01088,2025-02-03,Wear,Completed,Tech B
+M252725,B04861,2025-02-10,Erosion,In Progress,Tech A
+M967254,B01898,2025-02-10,Wear,Pending,Tech C
+M421026,B01123,2025-02-10,Crack,In Progress,Tech D
+M297660,B01046,2025-02-17,None,In Progress,Tech A
+M551784,B04154,2025-02-17,Erosion,In Progress,Tech A
+M982293,B05481,2025-02-17,Crack,In Progress,Tech B
+M692136,B04999,2025-02-17,Crack,In Progress,Tech D
+M758129,B03076,2025-02-17,Split,Pending,Tech D
+M584938,B03963,2025-02-17,Crack,Completed,Tech B
+M588936,B04639,2025-02-17,Split,In Progress,Tech A
+M512240,B02991,2025-02-17,Erosion,In Progress,Tech B
+M820878,B03760,2025-02-17,Crack,Completed,Tech C
+M933350,B03362,2025-02-17,Wear,Completed,Tech D
+M432299,B04112,2025-02-24,Split,Completed,Tech D
+M572330,B04427,2025-02-24,Delamination,In Progress,Tech C
+M241097,B04710,2025-02-24,Wear,Completed,Tech A
+M843127,B04719,2025-02-24,Split,Completed,Tech B
+M547240,B05640,2025-02-24,Crack,Pending,Tech D
+M266988,B03530,2025-02-24,None,Completed,Tech B
+M530094,B01178,2025-02-24,Wear,Completed,Tech B
+M399093,B01620,2025-03-03,None,Completed,Tech A
+M578292,B05978,2025-03-03,Split,Pending,Tech D
+M112498,B03432,2025-03-03,Wear,In Progress,Tech B
+M920484,B05559,2025-03-03,Delamination,Pending,Tech A
+M900930,B03665,2025-03-03,Crack,Pending,Tech B
+M139672,B01987,2025-03-03,Lightning Damage,Completed,Tech A
+M450349,B01046,2025-03-03,Wear,Completed,Tech C
+M969350,B05276,2025-03-03,Wear,In Progress,Tech B
+M126287,B04046,2025-03-03,Crack,Completed,Tech C
+M592014,B04377,2025-03-03,Wear,Completed,Tech A
+M652722,B02031,2025-03-10,Lightning Damage,Completed,Tech B
+M690142,B05828,2025-03-10,Split,In Progress,Tech C
+M858457,B01205,2025-03-10,None,Completed,Tech B
+M659636,B05615,2025-03-10,Split,In Progress,Tech C
+M962067,B03833,2025-03-10,Split,Completed,Tech D
+M175863,B05979,2025-03-10,Lightning Damage,In Progress,Tech C
+M541389,B05415,2025-03-17,Delamination,Completed,Tech A
+M785346,B01770,2025-03-17,None,Pending,Tech A
+M197565,B03672,2025-03-17,Crack,Completed,Tech A
+M196391,B01221,2025-03-24,Erosion,Pending,Tech D
+M358024,B04345,2025-03-24,Split,Completed,Tech B
+M437557,B02649,2025-03-24,Crack,In Progress,Tech B
+M471156,B02630,2025-03-24,None,Completed,Tech B
+M899467,B03234,2025-03-24,Crack,In Progress,Tech C
+M697155,B05768,2025-03-31,Lightning Damage,Completed,Tech D
+M934512,B05065,2025-03-31,Erosion,Completed,Tech B
+M159460,B03776,2025-04-07,Lightning Damage,Pending,Tech C
+M568338,B03309,2025-04-07,Erosion,Pending,Tech C
+M252355,B05618,2025-04-07,Split,In Progress,Tech C
+M901785,B02061,2025-04-07,Lightning Damage,Completed,Tech A
+M481013,B01876,2025-04-07,Split,Pending,Tech C
+M936945,B03640,2025-04-07,Split,In Progress,Tech C
+M929450,B04185,2025-04-07,Wear,Completed,Tech C
+M270982,B01483,2025-04-07,None,In Progress,Tech A
+M245322,B04650,2025-04-14,None,Pending,Tech C
+M601649,B04847,2025-04-14,Split,In Progress,Tech A
+M103227,B03591,2025-04-14,Crack,Pending,Tech A
+M341618,B05135,2025-04-14,Erosion,Completed,Tech D
+M733878,B01476,2025-04-14,Wear,Pending,Tech D
+M806672,B03150,2025-04-14,Split,Pending,Tech C
+M155061,B03357,2025-04-14,Delamination,In Progress,Tech A
+M722807,B03021,2025-04-14,Erosion,Pending,Tech D
+M549972,B01372,2025-04-21,Wear,Pending,Tech A
+M274347,B05566,2025-04-21,Crack,Completed,Tech D
+M538128,B01513,2025-04-21,Lightning Damage,Completed,Tech A
+M516374,B01197,2025-04-21,Wear,Completed,Tech D
+M542781,B01196,2025-04-21,Lightning Damage,Pending,Tech A
+M451303,B04524,2025-04-28,Crack,In Progress,Tech A
+M877312,B01496,2025-04-28,Wear,Pending,Tech A
+M627933,B02632,2025-04-28,Delamination,In Progress,Tech B
+M940798,B05958,2025-04-28,Crack,Pending,Tech A
+M184624,B01630,2025-04-28,Delamination,Pending,Tech B
+M614859,B03407,2025-04-28,Delamination,In Progress,Tech C
+M185950,B04032,2025-04-28,Crack,Completed,Tech D
+M404362,B05248,2025-04-28,None,Completed,Tech B
+M780842,B02218,2025-05-05,None,Completed,Tech B
+M209538,B03146,2025-05-05,None,Completed,Tech B
+M507136,B04066,2025-05-05,Crack,Pending,Tech A
+M391199,B04589,2025-05-05,Wear,Completed,Tech B
+M159100,B02913,2025-05-05,Delamination,In Progress,Tech B
+M126396,B02933,2025-05-05,Erosion,Pending,Tech B
+M298191,B02192,2025-05-05,Erosion,Pending,Tech B
+M176137,B05776,2025-05-12,Crack,Completed,Tech B
+M230668,B02891,2025-05-12,Delamination,Completed,Tech B
+M661977,B02193,2025-05-12,Crack,Completed,Tech A
+M983422,B01974,2025-05-12,Crack,Completed,Tech D
+M575101,B01425,2025-05-12,Lightning Damage,Pending,Tech A
+M478614,B03950,2025-05-12,Split,Pending,Tech C
+M722704,B03205,2025-05-19,Erosion,Pending,Tech C
+M926894,B04002,2025-05-19,Wear,In Progress,Tech A
+M477396,B01865,2025-05-19,Erosion,In Progress,Tech A
+M555530,B01135,2025-05-19,Wear,In Progress,Tech D
+M320865,B02138,2025-05-26,Crack,In Progress,Tech B
+M204499,B01595,2025-05-26,Lightning Damage,In Progress,Tech A
+M392507,B01047,2025-06-02,Erosion,Completed,Tech D
+M463435,B03576,2025-06-02,Wear,In Progress,Tech A
+M113428,B01327,2025-06-02,Delamination,Completed,Tech B
+M318972,B04016,2025-06-02,Lightning Damage,Pending,Tech D
+M657287,B02418,2025-06-02,Lightning Damage,Completed,Tech C
+M199017,B05358,2025-06-02,Erosion,Completed,Tech A
+M106529,B02395,2025-06-02,Lightning Damage,Pending,Tech D
+M458837,B04054,2025-06-02,Crack,In Progress,Tech A
+M172263,B01953,2025-06-02,Wear,Completed,Tech D
+M246117,B04264,2025-06-09,Delamination,Completed,Tech A
+M205396,B04014,2025-06-09,Wear,In Progress,
+M185230,B05878,2025-06-09,None,In Progress,Tech B
+M232071,B03386,2025-06-09,Erosion,Pending,Tech B
+M801383,B04447,2025-06-09,Wear,In Progress,Tech A
+M399941,B01816,2025-06-09,Wear,Completed,Tech A
+M637737,B01921,2025-06-16,Crack,Pending,Tech A
+M130623,B02196,2025-06-16,Split,In Progress,Tech A
+M892740,B04974,2025-06-16,Split,Pending,Tech D
+M969559,B05653,2025-06-16,Crack,Pending,Tech B
+M726465,B04997,2025-06-16,Delamination,Pending,Tech C
+M720586,B01770,2025-06-16,None,Pending,Tech D
+M210881,B01058,2025-06-16,None,Completed,Tech A
+M485211,B05825,2025-06-16,Lightning Damage,In Progress,Tech D
