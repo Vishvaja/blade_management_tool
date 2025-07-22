@@ -97,6 +97,3 @@ All endpoints return JSON responses and include input validation and error handl
 
 ---
 
-## 📣 GitHub Description Paragraph
-
-> A Dockerized full-stack backend for blade health management in wind farms. Ingests raw CSV data, normalizes it, and exposes clean RESTful APIs using FastAPI. Modular structure (CRUD/models/schemas/routers), PostgreSQL DB, and validation-ready endpoints for real-world turbine and maintenance tracking. Ideal for operations teams managing distributed wind energy assets.
